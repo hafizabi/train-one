@@ -21,7 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* and many more
 
 completed OC-10
 completed OC-10
