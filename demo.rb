@@ -24,7 +24,8 @@ Things you may want to cover:
 * ...
 
 README needs some details
+Should have sub-sections as well
 
 WORK DONE IS ...
 ================
-#OC-43 Have some work here as well as on #OC-45 but did not finished anyone
+# This should be commit message >>> #OC-43 Have some work here as well as on #OC-45 but did not finished anyone
