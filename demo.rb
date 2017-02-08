@@ -23,19 +23,8 @@ Things you may want to cover:
 
 * ...
 
-completed OC-10
-completed OC-10
-completed OC-10
-completed OC-10
-completed OC-10
-completed OC-10
-completed OC-10
-completed OC-10
-completed OC-10
-completed OC-10
-completed OC-10
-completed OC-10
+README needs some details
 
-
-
-
+WORK DONE IS ...
+================
+#OC-43 Have some work here as well as on #OC-45 but did not finished anyone
